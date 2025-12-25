@@ -112,3 +112,15 @@ npm run dev
 
 Open:
 `http://localhost:5173`
+
+## 📸 Demo Screenshots
+
+### Dashboard View
+![Dashboard showing articles](screenshots/dashboard.png)
+
+### AI Updated Article
+![AI updated article view](screenshots/ai_updated_article.png)
+
+
+
+
